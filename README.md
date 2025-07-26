@@ -21,7 +21,7 @@ fzmenu is a Bash-based interactive menu system for Linux, powered by [fzf](https
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/fzmenu.git
+   git clone https://github.com/cmerrill00/fzmenu.git
    cd fzmenu/scripts/fzmenu
    ```
 2. Run the install script:
